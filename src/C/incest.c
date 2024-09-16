@@ -8,22 +8,22 @@ int main() {
 
   switch (choice) {
     case '1':
-      printf("English:\tIncest");
+      printf("English:\tIncest\n");
       break;
     case '2':
-      printf("Germen:\tInzest");
+      printf("Germen:\tInzest\n");
       break;
     case '3':
-      printf("Japeneese:\tKonshinsōkan");
+      printf("Japeneese:\tKonshinsōkan\n");
       break;
     case '4':
-      printf("Polish:\tkazirodztwo");
+      printf("Polish:\tkazirodztwo\n");
       break;
     case '5':
-      printf("Hindi:\tkautumbik vyabhichaar");
+      printf("Hindi:\tkautumbik vyabhichaar\n");
       break;
     case '6':
-      printf("Afrikaans:\tbloedskande");
+      printf("Afrikaans:\tbloedskande\n");
       break;
     default:
       printf("That's Not A Real Langauge");
