@@ -11,10 +11,10 @@ int main() {
       printf("English:\tIncest\n");
       break;
     case '2':
-      printf("Germen:\tInzest\n");
+      printf("German:\tInzest\n");
       break;
     case '3':
-      printf("Japeneese:\tKonshinsōkan\n");
+      printf("Japenese:\tKonshinsōkan\n");
       break;
     case '4':
       printf("Polish:\tkazirodztwo\n");
